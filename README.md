@@ -44,10 +44,10 @@
 
 *   **[Knowledge Hub](https://github.com/nyorra/AI_Knowledge_Hub) — RAG-система (AI Knowledge Management)
 Интеллектуальное веб-приложение для работы с пользовательскими данными.  **В РАЗРАБОТКЕ**
-   *   **Frontend:** Node.js (React/Next.js) — реализация динамического UI и потоковых ответов от ИИ.
-   *   **Backend:** Python 3.12 (FastAPI), SQLAlchemy 2.0, Alembic, PostgreSQL.
-   *   **AI Engine:** RAG (Retrieval-Augmented Generation) на базе OpenAI API для ответов по контексту документов пользователя.
-   *   **DevOps:** Контейнеризация всей экосистемы через Docker Compose, управление через **uv**.
+    *  **Frontend:** Node.js (React/Next.js) — реализация динамического UI и потоковых ответов от ИИ.
+    *  **Backend:** Python 3.12 (FastAPI), SQLAlchemy 2.0, Alembic, PostgreSQL.
+    *  **AI Engine:** RAG (Retrieval-Augmented Generation) на базе OpenAI API для ответов по контексту документов пользователя.
+    *  **DevOps:** Контейнеризация всей экосистемы через Docker Compose, управление через **uv**.
 
 ---
 
