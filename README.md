@@ -56,11 +56,3 @@
 *   **Telegram:** [@nyorraa](https://t.me)
 *   **Email:** [vlad1slav200508@yandex.ru](mailto:vlad1slav200508@yandex.ru)
 *   **HH.ru:** [Мое резюме](https://hh.ru/resume/368caa10ff0edd8b5c0039ed1f4e7a694f3842)
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" height="180" />
-</p>
-
