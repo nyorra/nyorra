@@ -60,6 +60,7 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" height="180" />
 </p>
+
