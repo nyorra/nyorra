@@ -50,7 +50,7 @@
     *  **Reminder:** Настраиваемая система умных напоминаний и рассылок, интегрированная с базой данных активностей
     *  **Auth:** Система авторизации пользователей по номеру/email обеспечивает правдивость и честность конкурса.
 
-*   **[Knowledge Hub](https://github.com/nyorra/AI_Knowledge_Hub) — RAG-система (AI Knowledge Management)
+*   **[Knowledge Hub](https://github.com/nyorra/AI_Knowledge_Hub)** — RAG-система (AI Knowledge Management)
 Интеллектуальное веб-приложение для работы с пользовательскими данными.  **В РАЗРАБОТКЕ**
     *  **Frontend:** Node.js (React/Next.js) — реализация динамического UI и потоковых ответов от ИИ.
     *  **Backend:** Python 3.12 (FastAPI), SQLAlchemy 2.0, Alembic, PostgreSQL.
