@@ -7,13 +7,13 @@
 
 ### Мой стек технологий:
 
-*   **Languages:** Python 3.11+ (Asyncio, Type Hinting, Mypy)
+*   **Languages:** Python 3.10+
 *   **Web Frameworks:** FastAPI, Pydantic v2, REST API
-*   **Telegram Ecosystem:** Aiogram 3.x (Advanced FSM, Middlewares, Custom UI)
-*   **Databases & ORM:** PostgreSQL, MySQL, Redis (LRU Cache, FSM), SQLAlchemy 2.0
-*   **Migrations:** Alembic (опыт поддержки версионности схем БД)
-*   **DevOps & Tools:** Docker, Docker Compose, **uv** (Package management), Git, CI/CD
-*   **AI & Data:** OpenAI API (LLM analysis, Summarization), Pandas
+*   **Telegram Ecosystem:** Aiogram 3.x
+*   **Databases & ORM:** PostgreSQL, MySQL, Redis, SQLAlchemy 2.0
+*   **Migrations:** Alembic
+*   **DevOps & Tools:** Docker, Docker Compose, uv, Git, CI/CD
+*   **AI & Data:** OpenAI API, LLM, Pandas
 
 ---
 
